@@ -104,7 +104,10 @@ body{
 }
 
 @media(max-width: 768px){
-    body{
-        font-size: 75%;
+    .layer h1{
+        font-size: 0.9rem;
     }
+    p{
+        display: none;
+     }
 }
